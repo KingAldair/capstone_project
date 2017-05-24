@@ -1,0 +1,15 @@
+#bigbox{
+    border:20px solid red;
+    height: 800px;
+    width: 800px;
+    margin: 0 auto;
+    
+}
+#littlebox{
+    height:20px;
+    width: 60px;
+    background-color: blue;
+    position: absolute;
+    left:680px;
+    top:750px;
+}
